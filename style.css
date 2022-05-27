@@ -1,5 +1,17 @@
 body {
-    background: black;
+    background: grey;
     color: white;
     text-align: center;
+}
+
+p {
+    font-size: 40;
+}
+
+h1 {
+    font-size: 70;
+}
+
+a {
+    font-size: 40;
 }

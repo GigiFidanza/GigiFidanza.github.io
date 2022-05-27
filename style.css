@@ -1,7 +1,8 @@
 body {
-    background: grey;
     color: white;
     text-align: center;
+    background: black;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 p {

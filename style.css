@@ -29,25 +29,25 @@ pre {
 }
 
 a:link {
-    color: lightseagreen;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:visited {
-    color: lightseagreen;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    color: lightcoral;
-    background-color: transparent;
-    text-decoration: underline;
-  }
-  
-  a:active {
-    color: lightcoral;
-    background-color: transparent;
-    text-decoration: underline;
-  }
+  color: lightseagreen;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: lightseagreen;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lightcoral;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: lightcoral;
+  background-color: transparent;
+  text-decoration: underline;
+}

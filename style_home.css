@@ -1,6 +1,6 @@
 body {
-    color: white;
-    background: black;
+    color: #000;
+    background-color: #fff;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
 }
@@ -31,28 +31,28 @@ pre {
 }
 
 a:link {
-    color: lightseagreen;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:visited {
-    color: lightseagreen;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    color: lightcoral;
-    background-color: transparent;
-    text-decoration: underline;
-  }
-  
-  a:active {
-    color: lightcoral;
-    background-color: transparent;
-    text-decoration: underline;
-  }
+  color: #f00;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #f00;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #00f;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #00f;
+  background-color: transparent;
+  text-decoration: underline;
+}
 
   .responsive {
     width: 100%;
